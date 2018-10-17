@@ -1,0 +1,2 @@
+1. create project with specific version
+	- composer create-project laravel/laravel=4.1.27 your-project-name --prefer-dist
